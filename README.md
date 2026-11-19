@@ -91,3 +91,4 @@ codyssey/
 ├── data.json        # 크기별(5x5, 13x13, 25x25) 필터 및 테스트 패턴 6종 데이터셋
 └── README.md        # 실행 방법, 구현 요약 및 성능/실패 원인 분석 리포트
 ```
+<img width="557" height="437" alt="image" src="https://github.com/user-attachments/assets/5c332d11-eb90-49e5-af60-165e851482fd" />
